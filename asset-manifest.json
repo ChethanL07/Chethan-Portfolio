@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Chethan-Portfolio/static/css/main.bc8875a4.css",
+    "main.js": "/Chethan-Portfolio/static/js/main.1f7f7089.js",
+    "static/js/453.ed3810f9.chunk.js": "/Chethan-Portfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/Chethan-L Resume.pdf": "/Chethan-Portfolio/static/media/Chethan-L Resume.b71d49282ecb9830973a.pdf",
+    "static/media/home-main.svg": "/Chethan-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Chethan-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Chethan-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Chethan-Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Chethan-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Chethan-Portfolio/index.html",
+    "main.bc8875a4.css.map": "/Chethan-Portfolio/static/css/main.bc8875a4.css.map",
+    "main.1f7f7089.js.map": "/Chethan-Portfolio/static/js/main.1f7f7089.js.map",
+    "453.ed3810f9.chunk.js.map": "/Chethan-Portfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc8875a4.css",
+    "static/js/main.1f7f7089.js"
+  ]
+}
