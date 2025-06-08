@@ -28,14 +28,14 @@ function ResumeNew() {
         <br />
         <Row className="experience-section" style={{ justifyContent: "center" }}>
           <Col md={8} className="job-experience">
-            <h3 style={{ fontSize: "2em" }}>Prepurchase Verification Analyst At </h3>
-            <h4 style={{ fontSize: "1.5em" }} className="purple ">Invensis</h4>
-            <p style={{ fontSize: "1.2em" }}><strong>1st Oct 2023 - 30th May 2024</strong></p>
+            <h3 style={{ fontSize: "2em" }}>Technical / Data Analyst At </h3>
+            <h4 style={{ fontSize: "1.5em" }} className="purple ">Commercial Tax Dept(GST)</h4>
+            <p style={{ fontSize: "1.2em" }}><strong>7th Oct 2024 - Present</strong></p>
             <div style={{ textAlign: "left", fontSize: "1.2em" }}>
-              <p><ImPointRight /> Conducted thorough verification of purchase orders and related documents.</p>
-              <p><ImPointRight /> Coordinated with various departments to ensure the accuracy of information.</p>
-              <p><ImPointRight /> Prepared detailed reports on purchase verification processes.</p>
-              <p><ImPointRight /> Assisted in streamlining the verification process to improve efficiency.</p>
+              <p><ImPointRight /> Monitored and verified GST returns through online portals and backend systems.</p>
+              <p><ImPointRight /> Identified data mismatches and supported resolution using reconciliation techniques.</p>
+              <p><ImPointRight /> Guided users through online GST filing, registration, and system-related queries.</p>
+              <p><ImPointRight /> Supported officers in audits by preparing required datasets and digital documents</p>
             </div>
           </Col>
         </Row>
