@@ -15,7 +15,7 @@ function ResumeNew() {
           <Col md={8} className="job-experience">
             <h3 style={{ fontSize: "2em" }}>Front-End Developer Intern At</h3>
             <h4 style={{ fontSize: "1.5em" }} className="purple" > HR Labs</h4>
-            <p style={{ fontSize: "1.2em" }}><strong>1st Feb 2024 - Present</strong></p>
+            <p style={{ fontSize: "1.2em" }}><strong>1st Feb 2024 - 30 September 2024</strong></p>
             <div style={{ textAlign: "left", fontSize: "1.2em" }}>
               <p><ImPointRight /> Developed and maintained web applications using React.js.</p>
               <p><ImPointRight /> Collaborated with the design team to create responsive and user-friendly interfaces.</p>
@@ -28,14 +28,14 @@ function ResumeNew() {
         <br />
         <Row className="experience-section" style={{ justifyContent: "center" }}>
           <Col md={8} className="job-experience">
-            <h3 style={{ fontSize: "2em" }}>Prepurchase Verification Analyst At </h3>
-            <h4 style={{ fontSize: "1.5em" }} className="purple ">Invensis</h4>
-            <p style={{ fontSize: "1.2em" }}><strong>1st Oct 2023 - 30th May 2024</strong></p>
+            <h3 style={{ fontSize: "2em" }}>Technical /Data Analyst At </h3>
+            <h4 style={{ fontSize: "1.5em" }} className="purple ">Commerical Tax Dept(GST)</h4>
+            <p style={{ fontSize: "1.2em" }}><strong>7th Oct 2023 - Present</strong></p>
             <div style={{ textAlign: "left", fontSize: "1.2em" }}>
-              <p><ImPointRight /> Conducted thorough verification of purchase orders and related documents.</p>
-              <p><ImPointRight /> Coordinated with various departments to ensure the accuracy of information.</p>
-              <p><ImPointRight /> Prepared detailed reports on purchase verification processes.</p>
-              <p><ImPointRight /> Assisted in streamlining the verification process to improve efficiency.</p>
+              <p><ImPointRight /> Handled GST-related data using digital systems and tools.</p>
+              <p><ImPointRight /> Monitored and verified GST returns through online portals and backend systems.</p>
+              <p><ImPointRight /> Participated in designing and conducting awareness sessions using digital platforms.</p>
+              <p><ImPointRight /> Supported officers in audits by preparing required datasets and digital documents.</p>
             </div>
           </Col>
         </Row>
